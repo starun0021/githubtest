@@ -3,4 +3,4 @@ featurebranch2 first commit.
 featurebranch2 second commit.
 featurebranch3 first commit.
 releasefix/featurebranch3 first commit replacing featurebranch3 second commit.
-featurebranch4 first commit.
+featurebranch4 first commit and release fix for feature4 added.
