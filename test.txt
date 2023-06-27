@@ -3,3 +3,4 @@ featurebranch2 first commit.
 featurebranch2 second commit.
 featurebranch3 first commit.
 featurebranch3 second commit.
+featurebranch4 first commit.
