@@ -1,6 +1,6 @@
 added test file and hotfixchanges for featturebranch1.
 featurebranch2 first commit,hotfixchanges for featturebranch1.
 featurebranch2 second commit.
-featurebranch3 first commit.
+featurebranch3 first commit And hotfixchanges for featturebranch3.
 releasefix/featurebranch3 first commit replacing featurebranch3 second commit.
 featurebranch4 first commit and release fix for feature4 added.
