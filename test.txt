@@ -1,5 +1,5 @@
-added test file.
-featurebranch2 first commit.
+added test file and hotfixchanges for featturebranch1.
+featurebranch2 first commit,hotfixchanges for featturebranch1.
 featurebranch2 second commit.
 featurebranch3 first commit.
 releasefix/featurebranch3 first commit replacing featurebranch3 second commit.
